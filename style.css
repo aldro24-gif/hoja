@@ -1,0 +1,38 @@
+body{
+background-color: antiquewhite;
+border-style:double;
+margin: 30px;
+font-size: 18px;
+}
+#titulo{
+text-align: center;
+font: 300 ;
+font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+div{
+    margin-left: 80px;
+margin-bottom: 80px;
+
+
+}
+
+
+#balotelli{
+  border-style:dashed;
+width: 150px;
+height: auto;
+
+}
+#hobi{
+ 
+margin-top: 80px;
+
+}
+#list{
+
+    font-size: 19px;
+}
